@@ -1,5 +1,3 @@
-
-// Replace with your actual OMDb API key
 const API_KEY = '7c19042f'; 
 
 // Function to search for movies
