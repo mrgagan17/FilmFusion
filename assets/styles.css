@@ -8,14 +8,14 @@
 
 /* Navbar Styles */
 .navbar {
-    background-color: #333; /* Dark background color */
-    color: #fff; /* Text color */
+    background-color: #333; 
+    color: #fff;
     padding: 10px 0;
     position: fixed;
     width: 100%;
     top: 0;
     left: 0;
-    z-index: 1000; /* Ensure it stays on top */
+    z-index: 1000; 
 }
 
 .container {
@@ -206,7 +206,7 @@ h1 {
 
 #about {
     
-    color: #333; /* Dark text color for readability */
+    color: #333;
     padding: 60px 20px;
 }
 
@@ -226,7 +226,7 @@ ul {
 }
 
 #about {
-    color: #333; /* Dark text color for readability */
+    color: #333; 
     padding: 60px 20px;
 }
 
@@ -246,19 +246,19 @@ ul {
 
 /* Styling for the features list */
 .features-list {
-    list-style-type: disc; /* Adds bullet points to the list */
-    margin-left: 20px; /* Adds left margin to indent the list */
-    line-height: 1.6; /* Improves readability with spacing between lines */
+    list-style-type: disc; 
+    margin-left: 20px; 
+    line-height: 1.6; 
 }
 
 .features-list li {
-    margin-bottom: 10px; /* Adds space between list items */
+    margin-bottom: 10px; 
 }
 
 /* Footer Styles */
 .footer {
-    background-color: #333; /* Dark background color */
-    color: #fff; /* White text color */
+    background-color: #333; 
+    color: #fff; 
     padding: 20px 0;
     text-align: center;
     position: relative;
@@ -278,12 +278,12 @@ ul {
 }
 
 .footer p.designed-by {
-    color: #fff; /* White color for 'Designed by' text */
-    font-size: 14px; /* Adjust font size as needed */
+    color: #fff;
+    font-size: 14px; 
 }
 
 .footer p.designed-by a.linkedin-link {
-    color: #0a66c2; /* LinkedIn blue color */
+    color: #0a66c2;
     text-decoration: none;
 }
 
