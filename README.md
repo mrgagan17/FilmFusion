@@ -1,3 +1,4 @@
+movie-database
 # FilmFusion
 A movie database application using the OMDb API
 
