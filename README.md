@@ -19,7 +19,9 @@ OMDb API: Provides movie data including ratings and plot summaries.
 Setup:
 
 1.Clone the Repository: git clone https://github.com/mrgagan17/movie-database
+
 2.Navigate to the Project Directory: cd movie-database
+
 3.Open the Project in Your Browser: Open the index.html file in your web browser to view the application.
 
 Usage:
@@ -31,6 +33,7 @@ Usage:
 ~Add to Favorites: Click the "Add to Favorites" button on any movie to save it to your favorites list.
 
 Files: 
+
 index.html: Main HTML file for the project. 
 styles.css: Contains styles for the application. 
 script.js: Contains JavaScript code for handling API calls and user interactions. 
