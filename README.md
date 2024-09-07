@@ -3,17 +3,25 @@ FilmFusion-
 A movie database application using the OMDb API
 
 Overview:
+
 The Movie Database Project is a web application that allows users to search for movies and view detailed information about them using the OMDb API. The application features movie searches, detailed movie views, and the ability to add movies to a favorites list.
 
 Features:
+
 Search Movies: Find movies by title. 
+
 View Movie Details: See detailed information about each movie, including plot summary, ratings, and release date. 
+
 Add to Favorites: Save your favorite movies to a list for easy access.
 
 Technologies Used: 
+
 HTML: Markup language for structuring the web pages.
+
 CSS: Styling language to make the application visually appealing.
+
 JavaScript: Programming language for interactive features and API calls. 
+
 OMDb API: Provides movie data including ratings and plot summaries.
 
 Setup:
@@ -35,9 +43,13 @@ Usage:
 Files: 
 
 index.html: Main HTML file for the project. 
+
 styles.css: Contains styles for the application. 
+
 script.js: Contains JavaScript code for handling API calls and user interactions. 
+
 LICENSE: The MIT License file.
+
 README.md: This documentation file.
 
 Conclusion: 
