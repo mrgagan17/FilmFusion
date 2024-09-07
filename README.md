@@ -17,11 +17,13 @@ JavaScript: Programming language for interactive features and API calls.
 OMDb API: Provides movie data including ratings and plot summaries.
 
 Setup:
+
 1.Clone the Repository: git clone https://github.com/mrgagan17/movie-database
 2.Navigate to the Project Directory: cd movie-database
 3.Open the Project in Your Browser: Open the index.html file in your web browser to view the application.
 
 Usage:
+
 ~Search for Movies: Enter the title of a movie in the search bar and click "Search." View search results displayed with details like the plot, ratings, and release date.
 
 ~View Movie Details: Click on a movie from the search results to see detailed information.
